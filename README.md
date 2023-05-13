@@ -9,6 +9,9 @@ pip install pyshorteners
 
 
 ## Uso
-~~~~
-python url.py google.com
-~~~~
+
+<img src="url1.PNG">
+
+<img src="url2.PNG">
+
+<img src="url3.PNG">
