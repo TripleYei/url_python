@@ -1,5 +1,5 @@
 # url_python
-Acortar URL con pyshorteners
+Acortar URL con pyshorteners.
 
 ## Instalar
 
