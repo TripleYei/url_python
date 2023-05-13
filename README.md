@@ -11,6 +11,10 @@ pip install pyshorteners
 ## Uso
 
 Cambiar por la URL, que quieres acortar.
+
+Ejemplo 
+
+
 <img src="url1.PNG">
 
 <img src="url2.PNG">
